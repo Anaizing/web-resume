@@ -26,6 +26,7 @@
         "devicons": "^1.8.0",
         "hoek": "^5.0.3",
         "jquery": "3.3.1",
+        "mixin-deep": "^2.0.0",
         "simple-line-icons": "^2.4.1"
     },
     "devDependencies": {
