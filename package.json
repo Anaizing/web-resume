@@ -1,8 +1,8 @@
 {
     "title": "Web Resume",
-    "name": "anaizing-web-resume-demo",
-    "version": "4.0.0",
-    "description": "Resume is a simple, yet elegant resume and CV theme for Bootstrap 4.",
+    "name": "anai's resume",
+    "version": "5.0.0",
+    "description": "my personal resume",
     "keywords": [
         "css",
         "sass",
@@ -11,15 +11,12 @@
         "theme",
         "template"
     ],
-    "homepage": "https://anaizing-web-resume-demo.surge.sh",
+    "homepage": "https://anaizing.github.io/web-resume/",
     "license": "MIT",
     "author": "Anai Araya",
-    "contributors": [
-        "David Miller (http://davidmiller.io/)"
-    ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/Anaizing/web-resume"
+        "url": "https://anaizing.github.io/web-resume/"
     },
     "dependencies": {
         "bootstrap": "4.0.0",
