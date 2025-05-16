@@ -1,6 +1,6 @@
 {
     "title": "Web Resume",
-    "name": "anai's resume",
+    "name": "ian's resume",
     "version": "5.0.0",
     "description": "my personal resume",
     "keywords": [
@@ -13,7 +13,7 @@
     ],
     "homepage": "https://anaizing.github.io/web-resume/",
     "license": "MIT",
-    "author": "Anai Araya",
+    "author": "Ian Araya",
     "repository": {
         "type": "git",
         "url": "https://anaizing.github.io/web-resume/"
